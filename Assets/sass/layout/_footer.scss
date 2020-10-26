@@ -1,0 +1,21 @@
+.footer {
+    background-color: $raisinblack;
+    width: 100%;
+    height: 100px;
+    display: flex;
+
+    &__div1 {
+        display: flex;
+    }
+    &__div1 p {
+        color: $white;
+    }
+ 
+    &__div2 {
+        width: 100%;
+        display: flex;
+    }
+    &__div2 p {
+        color: $white;
+    }
+}

@@ -1,0 +1,53 @@
+.section-2 {
+    width: 100%;
+    box-sizing: content-box;
+
+
+    &__img {
+        width: 100%;
+    }
+    &__h2 {
+        color: $white;
+        text-align: center;
+        position: relative;
+
+    }
+    &__container-cards {
+        display: grid;
+        align-content: center;
+        justify-content: center;
+        position: relative;
+
+
+    }
+    &__cards {
+        background-color: $white;
+        height: 410px;
+
+    }
+    &__div3 {
+        border-bottom: 1px solid $lavendergrey;
+        margin: 20px;
+        padding: 20px;
+    }
+    &__ul {
+        border-bottom: 1px solid $lavendergrey;
+        margin: 20px;
+        padding: 20px;
+        height: 110px;
+    }
+    &__button {
+        background-color: $ballblue;
+        height: 40px;
+        width: 250px; 
+        color: $white;
+        align-content: center;
+        justify-content: center;
+        border: none;
+    }
+    &__container-button {
+        height: 80px;
+        display: flex;
+        justify-content: center;
+    }
+}

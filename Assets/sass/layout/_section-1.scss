@@ -1,0 +1,19 @@
+.section-1 {
+    width: 100%;
+    box-sizing: content-box;
+
+    &__h2 {
+        text-align: center;
+    }
+    &__box {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        align-content: center;
+        justify-content: center;
+    }
+    &__container {
+        box-sizing: content-box;
+        height: 170px;
+    }
+}
