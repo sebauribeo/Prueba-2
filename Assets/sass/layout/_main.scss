@@ -1,16 +1,13 @@
 .main {
     width: 100%;
+    background-image: url(../img/bg-hero.svg);
+    background-repeat: no-repeat;
     box-sizing: content-box;
 
     &__div1 {
         width: 300px;
     }
-    &__div2 {
-        width: 100%;
-    }
-    &__img {
-        width: 100%;
-    }
+
 
 
 }

@@ -10,6 +10,11 @@
         padding-top: 10px;
     }
 
+    &__img:hover {
+        transform: rotate(360deg);
+        transition: 3s;
+    }
+
     &__div2 p {
         padding-left: 30px;
         width: 90px;

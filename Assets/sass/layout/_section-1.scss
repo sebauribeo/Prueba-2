@@ -4,6 +4,7 @@
 
     &__h2 {
         text-align: center;
+        max-width: 0 20px;
     }
     &__box {
         width: 100%;
@@ -15,5 +16,8 @@
     &__container {
         box-sizing: content-box;
         height: 170px;
+    }
+    &__container:nth-child(1) {
+        animation: animated 2s ease-in 0s infinite alternate;
     }
 }

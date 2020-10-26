@@ -22,7 +22,9 @@
         }
     }
     .main {
-        height: 400px;
+        background-size: 100%;
+        background-position: bottom;
+        height: 430px;
     
         &__div1 {
             width: 300px;
@@ -75,8 +77,12 @@
             margin:  20px;
         }
         &__cards {
+            height: 400px;
             padding: 10px;
             margin-top: 30px;
+        }
+        &__ul  {
+            height: 150px;
         }
         &__img {
             margin-top: -1030px;
@@ -154,7 +160,10 @@
     }
     .main {
         width: 100%;
-        box-sizing: content-box;
+        height: 810px;
+        background-size: cover;
+
+
     
         &__div1 {
             width: 300px;
@@ -202,14 +211,19 @@
             width: 290px;
             background-color: $white;
             margin: 30px;
+            height: 370px;
+
+        }
+        &__ul {
+            height: 110px;
         }
         &__img {
-            margin-top: -780px;
+            margin-top: -760px;
         }
     }
     .footer {
-
         align-items: center;
+        position: relative;
     
         &__div1 {
             display: flex;
@@ -221,7 +235,7 @@
             color: $white;
         }
         &__div1 p:nth-child(3) {
-            width: 100px;
+            width: 110px;
         }
         &__div2 {
             width: 100%;
