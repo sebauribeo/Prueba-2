@@ -1,2 +1,2 @@
 # Prueba-2
-Grid, Flexbox,Animaciones
+Grid, Flexbox, Animaciones.
