@@ -147,80 +147,77 @@
     .main__div2 {
       width: 100%;
       margin-top: -200px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003149}}
-    .main__img {
-      width: 100%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003153}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003151}}
   .section-1 {
     padding-top: 20px;
     height: 600px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003157}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003155}}
     .section-1__h2 {
       text-align: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003160}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003158}}
     .section-1__box {
       width: 100%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003165}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003163}}
     .section-1__container {
       height: 200px;
       margin: 20px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003169}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003167}}
     .section-1__container:nth-child(1) {
       padding: 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003174}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003172}}
   .section-2 {
     width: 100%;
     height: 1050px;
     background-color: #333745; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003179}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003177}}
     .section-2__h2 {
       margin-top: 100px;
       color: #ffffff; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003183}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003181}}
     .section-2__container-cards {
       grid-template-columns: auto;
       margin: 20px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003187}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003185}}
     .section-2__cards {
       height: 400px;
       padding: 10px;
       margin-top: 30px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003192}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003190}}
     .section-2__ul {
       height: 150px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003195}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003193}}
     .section-2__img {
       margin-top: -1130px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003199}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003197}}
   .footer {
     -ms-flex-wrap: wrap;
         flex-wrap: wrap; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003203}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003201}}
     .footer__div1 {
       width: 100%;
       -ms-flex-line-pack: center;
           align-content: center;
       -ms-flex-pack: distribute;
           justify-content: space-around; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003209}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003207}}
     .footer__div2 {
       -ms-flex-line-pack: center;
           align-content: center;
       -webkit-box-pack: center;
           -ms-flex-pack: center;
               justify-content: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003213}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003211}}
     .footer__div2 p {
       color: #ffffff;
       text-align: center; } }
 @media (min-width: 768px) and (max-width: 991.98px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003224}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003222}}
   .nav__div1 {
     padding-left: 100px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003227}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003225}}
   .nav__div2 {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -228,14 +225,14 @@
     -webkit-box-pack: start;
         -ms-flex-pack: start;
             justify-content: flex-start; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003231}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003229}}
   .nav__div2 p {
     padding-left: 30px;
     width: 90px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003235}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003233}}
   .nav__div2 p:nth-child(1) {
     width: 70px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003239}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003237}}
   .nav__div3 {
     width: 100%;
     display: -webkit-box;
@@ -245,56 +242,53 @@
         -ms-flex-pack: end;
             justify-content: flex-end;
     padding-right: 100px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003245}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003243}}
   .nav__button-1 {
     width: 110px;
     height: 30px;
     background-color: #ffffff;
     border: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003251}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003249}}
   .nav__button-2 {
     width: 110px;
     height: 30px;
     background-color: #2ab7ca;
     color: #ffffff;
     border: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003258}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003256}}
   .nav__button-2:hover {
     background-color: #77d1dd; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003261}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003259}}
   .nav__button-2:focus {
     background-color: #8f9199;
     outline: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003265}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003263}}
   .nav__menu {
     display: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003269}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003267}}
   .main {
     background-size: 100%;
     background-position: bottom;
-    height: 585px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003274}}
+    height: 580px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003272}}
     .main__div1 {
       width: 300px;
       height: 400px;
-      padding: 10px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003279}}
+      padding-left: 100px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003277}}
     .main__div2 {
       width: 100%;
       margin-top: -200px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003283}}
-    .main__img {
-      width: 100%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003287}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003282}}
   .section-1 {
     padding-top: 20px;
     height: 500px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003291}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003286}}
     .section-1__h2 {
       text-align: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003294}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003289}}
     .section-1__box {
       width: 100%;
       display: -webkit-box;
@@ -307,47 +301,47 @@
       -webkit-box-pack: center;
           -ms-flex-pack: center;
               justify-content: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003301}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003296}}
     .section-1__container {
       height: 200px;
       width: 100%;
       margin: 20px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003306}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003301}}
     .section-1__container:nth-child(1) {
       padding: 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003311}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003306}}
   .section-2 {
     width: 100%;
     height: 600px;
     background-color: #333745; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003316}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003311}}
     .section-2__h2 {
       margin-top: 100px;
       color: #ffffff; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003320}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003315}}
     .section-2__container-cards {
       grid-template-columns: auto auto;
       margin: 20px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003324}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003319}}
     .section-2__cards {
       width: 290px;
       height: 400px;
       margin: 30px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003329}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003324}}
     .section-2__ul {
       height: 150px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003332}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003327}}
     .section-2__img {
       margin-top: -710px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003336}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003331}}
   .footer {
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
     position: relative; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003340}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003335}}
     .footer__div1 {
       display: -webkit-box;
       display: -ms-flexbox;
@@ -356,14 +350,14 @@
           -ms-flex-pack: start;
               justify-content: flex-start;
       padding-left: 100px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003345}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003340}}
     .footer__div1 p {
       padding-left: 20px;
       color: #ffffff; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003349}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003344}}
     .footer__div1 p:nth-child(3) {
       width: 110px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003352}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003347}}
     .footer__div2 {
       width: 100%;
       padding-right: 100px;
@@ -373,14 +367,14 @@
       -webkit-box-pack: end;
           -ms-flex-pack: end;
               justify-content: flex-end; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003358}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003353}}
     .footer__div2 p {
       color: #ffffff; } }
 @media (min-width: 992px) and (max-width: 1199.98px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003366}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003361}}
   .nav__div1 {
     padding-left: 100px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003369}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003364}}
   .nav__div2 {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -388,14 +382,14 @@
     -webkit-box-pack: start;
         -ms-flex-pack: start;
             justify-content: flex-start; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003373}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003368}}
   .nav__div2 p {
     padding-left: 30px;
     width: 90px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003377}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003372}}
   .nav__div2 p:nth-child(1) {
     width: 70px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003381}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003376}}
   .nav__div3 {
     width: 100%;
     display: -webkit-box;
@@ -405,91 +399,91 @@
         -ms-flex-pack: end;
             justify-content: flex-end;
     padding-right: 100px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003387}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003382}}
   .nav__button-1 {
     width: 110px;
     height: 30px;
     background-color: #ffffff;
     border: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003393}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003388}}
   .nav__button-2 {
     width: 110px;
     height: 30px;
     background-color: #2ab7ca;
     color: #ffffff;
     border: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003400}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003395}}
   .nav__button-2:hover {
     background-color: #77d1dd; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003403}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003398}}
   .nav__button-2:focus {
     background-color: #8f9199;
     outline: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003407}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003402}}
   .nav__menu {
     display: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003411}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003406}}
   .main {
-    width: 100%;
-    height: 580px;
-    background-size: cover; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003418}}
+    height: 670px;
+    background-size: contain;
+    background-position: top; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003413}}
     .main__div1 {
       width: 300px;
       height: 300px;
       border: 1 px solid gray;
       padding-left: 100px;
       padding-top: 100px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003425}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003420}}
     .main__div2 {
       width: 100%;
-      margin-top: -420px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003429}}
+      margin-top: -450px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003424}}
     .main__img {
       width: 100%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003433}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003429}}
   .section-1 {
     height: 550px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003436}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003432}}
     .section-1__h2 {
       text-align: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003439}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003435}}
     .section-1__container {
       width: 300px;
       margin: 50px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003444}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003440}}
   .section-2 {
     height: 500px;
     background-color: #333745;
     padding-top: -20px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003449}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003445}}
     .section-2__h2 {
       color: #ffffff; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003452}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003448}}
     .section-2__container-cards {
       grid-template-columns: auto auto; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003455}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003451}}
     .section-2__cards {
       width: 290px;
       margin: 30px;
       height: 370px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003461}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003457}}
     .section-2__ul {
       height: 110px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003464}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003460}}
     .section-2__img {
       margin-top: -700px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003468}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003464}}
   .footer {
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
     position: relative; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003472}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003468}}
     .footer__div1 {
       display: -webkit-box;
       display: -ms-flexbox;
@@ -498,14 +492,14 @@
           -ms-flex-pack: start;
               justify-content: flex-start;
       padding-left: 100px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003477}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003473}}
     .footer__div1 p {
       padding-left: 20px;
       color: #ffffff; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003481}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003477}}
     .footer__div1 p:nth-child(3) {
       width: 110px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003484}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003480}}
     .footer__div2 {
       width: 100%;
       padding-right: 100px;
@@ -515,14 +509,14 @@
       -webkit-box-pack: end;
           -ms-flex-pack: end;
               justify-content: flex-end; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003490}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003486}}
     .footer__div2 p {
       color: #ffffff; } }
 @media (min-width: 1200px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003500}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003496}}
   .nav__div1 {
     padding-left: 100px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003503}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003499}}
   .nav__div2 {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -530,14 +524,14 @@
     -webkit-box-pack: start;
         -ms-flex-pack: start;
             justify-content: flex-start; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003507}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003503}}
   .nav__div2 p {
     padding-left: 30px;
     width: 90px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003511}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003507}}
   .nav__div2 p:nth-child(1) {
     width: 70px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003515}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003511}}
   .nav__div3 {
     width: 100%;
     display: -webkit-box;
@@ -547,57 +541,57 @@
         -ms-flex-pack: end;
             justify-content: flex-end;
     padding-right: 100px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003521}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003517}}
   .nav__button-1 {
     width: 110px;
     height: 30px;
     background-color: #ffffff;
     border: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003527}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003523}}
   .nav__button-2 {
     width: 110px;
     height: 30px;
     background-color: #2ab7ca;
     color: #ffffff;
     border: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003534}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003530}}
   .nav__button-2:hover {
     background-color: #77d1dd; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003537}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003533}}
   .nav__button-2:focus {
     background-color: #8f9199;
     outline: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003541}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003537}}
   .nav__menu {
     display: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003545}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003541}}
   .main {
     width: 100%;
-    height: 750px;
+    height: 810px;
     background-size: cover; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003552}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003548}}
     .main__div1 {
       width: 300px;
       height: 300px;
       border: 1 px solid gray;
       padding-left: 100px;
       padding-top: 100px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003559}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003555}}
     .main__div2 {
       width: 100%;
       margin-top: -420px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003563}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003559}}
     .main__img {
       width: 100%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003567}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003563}}
   .section-1 {
     height: 550px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003570}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003566}}
     .section-1__h2 {
       text-align: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003573}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003569}}
     .section-1__box {
       width: 100%;
       display: -webkit-box;
@@ -610,40 +604,40 @@
       -webkit-box-pack: center;
           -ms-flex-pack: center;
               justify-content: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003580}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003576}}
     .section-1__container {
       width: 300px;
       margin: 50px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003585}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003581}}
   .section-2 {
     height: 550px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003588}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003584}}
     .section-2__h2 {
       color: #ffffff; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003591}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003587}}
     .section-2__container-cards {
       grid-template-columns: auto auto; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003594}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003590}}
     .section-2__cards {
       width: 290px;
       background-color: #ffffff;
       margin: 30px;
       height: 370px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003601}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003597}}
     .section-2__ul {
       height: 110px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003604}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003600}}
     .section-2__img {
       margin-top: -760px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003608}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003604}}
   .footer {
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
     position: relative; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003612}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003608}}
     .footer__div1 {
       display: -webkit-box;
       display: -ms-flexbox;
@@ -652,14 +646,14 @@
           -ms-flex-pack: start;
               justify-content: flex-start;
       padding-left: 100px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003617}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003613}}
     .footer__div1 p {
       padding-left: 20px;
       color: #ffffff; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003621}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003617}}
     .footer__div1 p:nth-child(3) {
       width: 110px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003624}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003620}}
     .footer__div2 {
       width: 100%;
       padding-right: 100px;
@@ -669,7 +663,7 @@
       -webkit-box-pack: end;
           -ms-flex-pack: end;
               justify-content: flex-end; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003630}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/abstracts\/_media\.scss}line{font-family:\00003626}}
     .footer__div2 p {
       color: #ffffff; } }
 @-webkit-keyframes animated {
@@ -731,37 +725,37 @@ h1, h2, h3, h4 {
             transform: rotate(360deg);
     -webkit-transition: 3s;
     transition: 3s; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/layout\/_navbar\.scss}line{font-family:\0000318}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/layout\/_navbar\.scss}line{font-family:\0000317}}
   .nav__div2 p {
     padding-left: 30px;
     width: 90px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/layout\/_navbar\.scss}line{font-family:\0000322}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/layout\/_navbar\.scss}line{font-family:\0000321}}
   .nav__div2 p:nth-child(1) {
     width: 70px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/layout\/_navbar\.scss}line{font-family:\0000326}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/layout\/_navbar\.scss}line{font-family:\0000325}}
   .nav__div3 {
     width: 100%;
     -webkit-box-pack: end;
         -ms-flex-pack: end;
             justify-content: flex-end;
     padding-right: 100px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/layout\/_navbar\.scss}line{font-family:\0000331}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/layout\/_navbar\.scss}line{font-family:\0000330}}
   .nav__button-1 {
     width: 110px;
     height: 30px;
     background-color: #ffffff;
     border: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/layout\/_navbar\.scss}line{font-family:\0000337}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/layout\/_navbar\.scss}line{font-family:\0000336}}
   .nav__button-2 {
     width: 110px;
     height: 30px;
     background-color: #2ab7ca;
     color: #ffffff;
     border: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/layout\/_navbar\.scss}line{font-family:\0000344}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/layout\/_navbar\.scss}line{font-family:\0000343}}
   .nav__button-2:hover {
     background-color: #77d1dd; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/layout\/_navbar\.scss}line{font-family:\0000347}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/layout\/_navbar\.scss}line{font-family:\0000346}}
   .nav__button-2:focus {
     background-color: #8f9199;
     outline: none; }
@@ -797,8 +791,8 @@ h1, h2, h3, h4 {
   width: 100%;
   background-image: url(../img/bg-hero.svg);
   background-repeat: no-repeat;
-  -webkit-box-sizing: content-box;
-          box-sizing: content-box; }
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box; }
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/layout\/_main\.scss}line{font-family:\000037}}
   .main__div1 {
     width: 300px; }
@@ -832,8 +826,8 @@ h1, h2, h3, h4 {
     width: 300px; }
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/layout\/_section-1\.scss}line{font-family:\0000320}}
   .section-1__container:nth-child(1) {
-    -webkit-animation: animated 2s ease-in 0s infinite alternate;
-            animation: animated 2s ease-in 0s infinite alternate; }
+    -webkit-animation: animated 2s linear 0s infinite alternate;
+            animation: animated 2s linear 0s infinite alternate; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/EQUIPO\/Desktop\/SEBA\/CLASES\/Prueba_startup\/Assets\/sass\/layout\/_section-2\.scss}line{font-family:\000031}}
 .section-2 {
