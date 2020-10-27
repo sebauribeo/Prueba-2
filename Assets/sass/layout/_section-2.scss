@@ -17,12 +17,12 @@
         align-content: center;
         justify-content: center;
         position: relative;
-
-
     }
     &__cards {
         background-color: $white;
-
+    }
+    &__cards:hover {
+        box-shadow: 0px 2px 2px 2px $lavendergrey;
     }
     &__div3 {
         border-bottom: 1px solid $lavendergrey;

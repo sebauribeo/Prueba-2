@@ -15,7 +15,7 @@
     }
     &__container {
         box-sizing: content-box;
-        height: 170px;
+        width: 300px;
     }
     &__container:nth-child(1) {
         animation: animated 2s ease-in 0s infinite alternate;
